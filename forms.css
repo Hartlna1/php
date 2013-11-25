@@ -1,0 +1,18 @@
+label 
+	{
+		font-weight:bold;										/*bold*/
+		color:#300ACC;											/*blue*/
+	}
+error
+	{
+		font-weight:bold;										/*bold*/
+		color:#B31B1B;											/*red*/
+	}
+male
+	{
+		color:#0099FF;											/*lighter blue*/								
+	}
+female
+	{
+		color:#FF33CC;											/*pink*/
+	}
